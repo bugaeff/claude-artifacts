@@ -6,7 +6,7 @@ Small AI-powered apps that run right inside Claude. Open one in a click, use it 
 
 | Name | What it does | Link |
 |---|---|---|
-| Inbox Digger | Searches your Gmail by meaning: promo codes, subscriptions, things you forgot about. Bulk cleanup included. Needs Gmail connected. | [Open](**INBOX_DIGGER_LINK**) |
+| Inbox Digger | Searches your Gmail by meaning: promo codes, subscriptions, things you forgot about. Bulk cleanup included. Needs Gmail connected. | [Open](https://claude.ai/artifact/LsdLeBi4MJY48yxwhzMTqA) |
 
 New artifacts land here with every video.
 
